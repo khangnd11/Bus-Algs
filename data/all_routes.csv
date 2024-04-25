@@ -1,0 +1,119 @@
+fRouteId,RouteNo,RouteName,getroutebyid,getvarsbyroute,gettimetablebyroute,getstopsbyvar,getpathsbyvar,rev_getstopsbyvar,rev_getpathsbyvar
+1,1,Bến Thành - Bến Xe buýt Chợ Lớn,1,1,1,1,1,2,2
+3,3,Bến Thành - Thạnh Lộc,3,3,3,5,5,6,6
+4,4,Bến Thành - Cộng Hòa - Bến Xe An Sương,4,4,4,7,7,8,8
+5,5,Bến Xe buýt Chợ Lớn - Bến xe Biên Hòa,5,5,5,2,2,3,3
+6,6,Bến Xe Buýt Chợ Lớn- Đại học Nông Lâm,6,6,6,1,1,2,2
+7,7,Bến Xe Buýt Chợ Lớn- Gò vấp,7,7,7,13,13,14,14
+8,8,Bến Xe Buýt Quận 8- Đại học Quốc Gia,8,8,8,1,1,2,2
+9,9,Bến Xe Buýt Chợ Lớn - Bình Chánh - Hưng Long,9,9,9,1,1,2,2
+10,10,Đại học Quốc Gia- Bến xe Miền Tây,10,10,10,1,1,2,2
+11,100,Bến Xe Củ Chi - Cầu Tân Thái,11,11,11,1,1,2,2
+12,101,Bến Xe Buýt Chợ Lớn - Chợ Tân Nhựt,12,12,12,1,1,2,2
+13,102,Bến Xe Buýt Sài Gòn - Nguyễn Văn Linh - Bến xe Miền Tây,13,13,13,25,25,26,26
+14,103,Bến Xe Buýt Chợ Lớn - Bến xe Ngã 4 Ga,14,14,14,1,1,2,2
+15,104,Bến xe An Sương - Đại học Nông Lâm,15,15,15,29,29,30,30
+16,107,Bến xe Củ Chi - Bố Heo,16,16,16,31,31,32,32
+199,109,Bến Xe Buýt Sài Gòn - Sân bay Tân Sơn Nhất,199,199,199,1,1,2,2
+18,110,Hiệp Phước - Phước Lộc,18,18,18,1,1,2,2
+20,122,Bến xe An Sương - Tân Quy,20,20,20,39,39,40,40
+23,126,Bến xe Củ Chi - Bình Mỹ,23,23,23,45,45,46,46
+178,127,An Thới Đông - Ngã ba Bà Xán,178,178,178,1,1,2,2
+179,128,Tân Điền - An Nghĩa,179,179,179,1,1,2,2
+24,13,Bến Xe Buýt Sài Gòn - Bến xe Củ Chi,24,24,24,47,47,48,48
+25,139,Bến xe Miền Tây - Khu Tái Định Cư Phú Mỹ,25,25,25,1,1,2,2
+26,14,Bến xe Miền Đông - 3/2 - Bến xe Miền Tây,26,26,26,1,1,2,2
+27,140,Bến Xe Buýt Sài Gòn - Phạm Thế Hiển - Khu Dân Cư Phú Lợi,27,27,27,53,53,54,54
+28,141,Khu du lịch BCR - Long Trường - Khu chế xuất Linh Trung II,28,28,28,55,55,56,56
+30,145,Bến Xe Buýt Chợ Lớn - Chợ Hiệp Thành,30,30,30,59,59,60,60
+31,146,Bến Xe Miền Đông - Chợ Hiệp Thành,31,31,31,63,63,64,64
+32,148,Bến xe Miền Tây - Gò Vấp,32,32,32,1,1,2,2
+34,15,Chợ Phú Định - Đầm Sen,34,34,34,67,67,68,68
+35,150,Bến xe buýt Chợ Lớn - Ngã 3 Tân Vạn,35,35,35,69,69,70,70
+36,151,Bến xe Miền Tây - Bến xe An Sương,36,36,36,1,1,2,2
+37,152,Khu dân cư Trung Sơn - Bến Thành - Sân bay Tân Sơn Nhất,37,37,37,73,73,74,74
+38,16,Bến xe buýt Chợ Lớn - Bến xe buýt Tân Phú,38,38,38,1,1,2,2
+40,18,Bến Thành - Chợ Hiệp Thành,40,40,40,79,79,80,80
+41,19,Bến Thành - Khu Chế Xuất Linh Trung - Đại Học Quốc Gia,41,41,41,1,1,2,2
+42,20,Bến Thành - Nhà Bè,42,42,42,83,83,84,84
+43,22,Bến Xe buýt Quận 8 - Khu công nghiệp Lê Minh Xuân,43,43,43,85,85,86,86
+44,23,Bến xe buýt Chợ Lớn - Ngã 3 Giồng - Cầu Lớn,44,44,44,87,87,88,88
+45,24,Bến Xe Miền Đông - Hóc Môn,45,45,45,89,89,90,90
+46,25,Bến Xe buýt Quận 8 - Khu dân cư Vĩnh Lộc A,46,46,46,91,91,92,92
+48,27,Bến xe buýt Sài Gòn - Âu Cơ - Bến xe An Sương,48,48,48,95,95,96,96
+49,28,Bến xe buýt Sài Gòn - Chợ Xuân Thới Thượng,49,49,49,99,99,100,100
+50,29,Phà Cát Lái - Chợ nông sản Thủ Đức,50,50,50,99,99,100,100
+51,30,Chợ Tân Hương - Đại học Quốc tế,51,51,51,1,1,2,2
+52,31,Đại Học Tôn Đức Thắng - Bến Thành - Đại Học Văn Lang,52,52,52,1,1,2,2
+53,32,Bến Xe Miền Tây - Bến Xe Ngã Tư Ga,53,53,53,105,105,106,106
+54,33,Bến Xe An Sương - Suối Tiên - Đại học Quốc Gia,54,54,54,1,1,2,2
+55,34,Bến xe buýt Sài Gòn - Bến xe buýt Quận 8,55,55,55,1,1,2,2
+57,36,Bến Thành - Thới An,57,57,57,113,113,114,114
+59,38,Khu dân cư Tân Quy - Bến Thành - Đầm Sen,59,59,59,117,117,118,118
+60,39,Bến Xe Buýt Sài Gòn - Võ Văn Kiệt - Bến Xe Miền Tây,60,60,60,3,3,4,4
+62,41,Bến xe Miền Tây- Ngã tư Bốn xã- Bến xe An Sương,62,62,62,123,123,124,124
+64,43,Bến xe Miền Đông - Phà Cát Lái,64,64,64,127,127,128,128
+65,44,Cảng Quận 4 - Bình Quới,65,65,65,129,129,130,130
+66,45,Bến xe buýt Quận 8 - Bến Thành - Bến xe Miền Đông,66,66,66,1,1,2,2
+67,46,Công viên Tôn Thất Thuyết - Bến Mễ Cốc,67,67,67,133,133,134,134
+68,47,Bến xe buýt Chợ Lớn - Quốc lộ 50 - Hưng Long,68,68,68,1,1,2,2
+69,48,Bến xe buýt Tân Phú - Chợ Hiệp Thành,69,69,69,1,1,2,2
+70,50,Đại học Bách khoa - Đại học Quốc gia,70,70,70,1,1,2,2
+72,52,Bến Thành - Đại học Quốc tế,72,72,72,1,1,2,2
+73,53,Lê Hồng Phong - Đại học Quốc gia,73,73,73,1,1,2,2
+75,55,Công viên phần mềm Quang Trung - Bến xe Miền Đông mới,75,75,75,1,1,2,2
+76,56,Bến xe buýt Chợ Lớn - Đại học Giao thông Vận tải,76,76,76,1,1,2,2
+77,57,Chợ Phước Bình - Trường Trung học Phổ thông Hiệp Bình,77,77,77,153,153,154,154
+78,58,Bến xe Ngã tư Ga - Khu công nghiệp Đông Nam,78,78,78,1,1,2,2
+79,59,Bến xe buýt Quận 8 - Bến xe Ngã 4 Ga,79,79,79,157,157,158,158
+81,60-1,Bến xe Miền Tây - Bến xe Biên Hòa,81,81,81,1,1,2,2
+215,60-2,Đại Học Nông Lâm - Bến Xe Phú Túc,215,215,215,1,1,2,2
+82,60-3,Bến xe Miền Đông (cũ) - Khu Công nghiệp Nhơn Trạch,82,82,82,1,1,2,2
+381,60-5,Bến xe An Sương - Bến xe Biên Hòa,381,381,381,1,1,2,2
+382,60-7,Bến xe buýt Tân Phú - Bến xe Biên Hòa,382,382,382,1,1,2,2
+84,61,Bến xe buýt Chợ Lớn - Khu công nghiệp Lê Minh Xuân,84,84,84,1,1,2,2
+89,61-7,Bến đò Bình Mỹ - Bến xe Bình Dương,89,89,89,1,1,2,2
+91,62,Bến xe buýt Quận 8 -Thới An,91,91,91,181,181,182,182
+204,62-1,Bến Xe Chợ Lớn  - Bến xe Tân Trụ,204,204,204,1,1,2,2
+92,62-10,Bến xe Chợ Lớn - Thanh Vĩnh Đông,92,92,92,1,1,2,2
+93,62-11,Bến Xe Quận 8 - Bến Xe Tân Tập,93,93,93,1,1,2,2
+94,62-2,Bến xe buýt Chợ Lớn - Ngã 3 Tân Lân,94,94,94,1,1,2,2
+97,62-5,Bến xe An Sương - Bến xe Hậu Nghĩa,97,97,97,1,1,2,2
+214,62-6,BX Chợ Lớn - BX Hậu Nghĩa,214,214,214,1,1,2,2
+98,62-7,Bến xe Chợ Lớn - Bến xe Đức Huệ,98,98,98,1,1,2,2
+99,62-8,Bến xe Chợ Lớn - Bến xe Tân An,99,99,99,1,1,2,2
+100,62-9,Bến xe buýt Quận 8 - Thị xã Gò Công,100,100,100,1,1,2,2
+380,63-1,Bến xe buýt Tân Phú - Bến xe Tiền Giang,380,380,380,3,3,4,4
+101,64,Bến xe Miền Đông - Đầm Sen,101,101,101,201,201,202,202
+102,65,Bến Thành - Cách Mạng Tháng 8 - Bến xe An Sương,102,102,102,203,203,204,204
+383,67,Bến xe Miền Đông (cũ) - Bến xe Miền Đông (mới),383,383,383,1,1,2,2
+104,68,Bến xe buýt Chợ Lớn - Đại học Tài Chính - Marketing,104,104,104,1,1,2,2
+105,69,Bến xe buýt Sài Gòn - Khu dân cư Vĩnh Lộc,105,105,105,1,1,2,2
+106,70,Tân Quy - Bến Súc,106,106,106,211,211,212,212
+107,70-1,Bến xe Củ Chi - Bến Xe Tây Ninh,107,107,107,1,1,2,2
+108,70-2,Bến xe Củ Chi - Bến xe Hòa Thành,108,108,108,1,1,2,2
+110,70-5,Bố Heo - Lộc Hưng,110,110,110,1,1,2,2
+111,71,Bến xe An Sương - Phật Cô Đơn,111,111,111,221,221,222,222
+112,72,Bến xe buýt Sài Gòn - Hiệp Phước,112,112,112,223,223,224,224
+335,72-1,Sân bay Tân Sơn Nhất – Đường cao tốc – Bến xe Vũng Tàu,335,335,335,3,3,4,4
+113,73,Chợ Bình Chánh - Khu công nghiệp Lê Minh Xuân,113,113,113,225,225,226,226
+114,74,Bến xe An Sương - Bến xe Củ Chi,114,114,114,227,227,228,228
+115,75,Bến Xe Buýt Sài Gòn - Cần Giờ,115,115,115,231,231,232,232
+116,76,Long Phước - Suối Tiên - Bến xe Miền Đông mới,116,116,116,1,1,2,2
+117,77,Đồng Hòa - Cần Thạnh,117,117,117,235,235,236,236
+118,78,Bến xe buýt Thới An - Ngã Ba Giồng - Cầu Lớn,118,118,118,1,1,2,2
+119,79,Bến xe Củ Chi - Đền Bến Dược,119,119,119,237,237,238,238
+121,81,Bến xe buýt Chợ Lớn - Lê Minh Xuân,121,121,121,1,1,2,2
+124,84,Bến xe buýt Chợ Lớn - Tân Túc,124,124,124,247,247,248,248
+125,85,Bến xe An Sương- Khu công nghiệp Nhị Xuân,125,125,125,1,1,2,2
+127,87,Bến xe Củ Chi - An Nhơn Tây,127,127,127,253,253,254,254
+128,88,Bến Thành - Chợ Long Phước,128,128,128,255,255,256,256
+129,89,Đại học Nông Lâm - Bến Tàu Hiệp Bình Chánh,129,129,129,1,1,2,2
+130,90,Phà Bình Khánh - Cần Thạnh,130,130,130,261,261,262,262
+131,91,Bến xe Miền Tây - Chợ nông sản Thủ Đức,131,131,131,261,261,262,262
+133,93,Bến Thành - Bến xe Miền Đông mới,133,133,133,1,1,2,2
+134,94,Bến xe Chợ Lớn - Bến xe Củ Chi,134,134,134,267,267,268,268
+137,99,Chợ Thạnh Mỹ Lợi - Đại học Quốc gia,137,137,137,273,273,274,274
+212,D2,Sky Garden – Cresent Mall,212,212,212,1,1,2,2
+211,D3,Riverside Resident- Cresent Mall,211,211,211,1,1,2,2
+340,D4,Vinhomes Grand Park - Bến xe buýt Sài Gòn,340,340,340,1,1,2,2
