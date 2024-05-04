@@ -10,7 +10,7 @@ os_path = '/users/ndkhang/Documents/HCMC_Bus'
 
 def main():
     # station_link = pd.read_csv(f"{os_path}/HCMC_Bus/Bus-Algs/data/station_link.csv")
-    station_node = pd.read_csv(f"{os_path}/HCMC_Bus/Bus-Algs/data/station_node.csv")
+    station_node = pd.read_csv(f"{os_path}/Bus-Algs/data/station_node.csv")
     num_nodes = len(station_node) # number of stations
     
     P_1_matrix = np.load(f"{os_path}/matrix/P_Path/P_1.npy")
@@ -35,6 +35,8 @@ def main():
                             SW_1_matrix[node_i][node_j].append(sw)
                             
     SW_1 = list()
+    np.save(f"{os_path}/matrix/P_Path/P_2.npy", P_2_matrix)
+    print(P_2_matrix)
     
     for node_i in tqdm(range(num_nodes)):
         for node_j in range(num_nodes):
