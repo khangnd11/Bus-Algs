@@ -22,13 +22,16 @@ def main():
             if (node_i == node_j) or (P_1_matrix[node_i][node_j] == 1) or (P_2_matrix[node_i][node_j] == 1):
                 continue
             else:
-                for sw in range(num_nodes):
-                    if (P_1_matrix[node_i][sw] == 1) and (P_1_matrix[sw][node_j] == 1):
-                            P_2_matrix[node_i][node_j] = 1
-                            SW_1_matrix[node_i][node_j].append(sw)
+                for sw1 in range(num_nodes):
+                    for sw2 in range(num_nodes):
+                        if (P_1_matrix[node_i][sw1] == 1) and (P_1_matrix[sw1][sw2] == 1) and (P_1_matrix[sw2][node_j] == 1):
+                            P_3_matrix[node_i][node_j] = 1
+                            SW_2_1_matrix[node_i][node_j].append(sw1)
+                            SW_2_2_matrix[node_i][node_j].append(sw2)
                             
-    SW_1 = list()
-    
+    np.save(f"{os_path}/matrix/P_Path/P_3.npy", P_3_matrix)                        
+    SW_2_1 = list()
+    SW_2_2 = list()
     for node_i in tqdm(range(num_nodes)):
         for node_j in range(num_nodes):
             if P_3_matrix[node_i][node_j] == 1:
